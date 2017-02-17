@@ -25,7 +25,7 @@ SECRET_KEY = '#3#_u)12%i6f-kl^!3e^*4^hpz34^o=)+4jy3^_+zv+b0-+(9%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['arsari.pythonanywhere.com']
 
 
 # Application definition
